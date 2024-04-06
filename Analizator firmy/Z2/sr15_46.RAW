@@ -1,0 +1,127 @@
+   Operator:C:\PROG\EKAN\OPERATOR\Z2\sr15_46.sir
+   Decyzja :  6
+  ########################################################################################################################################
+  #          RACHUNEK ZYSKÓW I STRAT (WARIANT KALKULACYJNY) oraz RACHUNEK ZYSKÓW/STRAT ZATRZYMANYCH                                      #
+  ########################################################################################################################################
+  #                                               #       Na koniec roku:       #
+  #   W Y S Z C Z E G Ó L N I E N I E             #           /mln z³/          #
+  #                                               ###############################
+  #                                               #   2024  #   2025  #   2026  #
+  ###############################################################################
+  #                                               #         #         #         #
+  # A.Przychody netto ze sprzeda¿y produktów,     #    64.7 #   109.5 #   308.6 #
+  #   towarów i materia³ów                        #         #         #         #
+  # A.1.Przychody netto ze sprzeda¿y              #    64.7 #   109.5 #   308.6 #
+  #      produktów, towarów i materia³ów          #         #         #         #
+  # A.1.I.Przychody netto ze sprzeda¿y produktów  #    64.7 #   109.5 #   308.6 #
+  #                                               #         #         #         #
+  # B.Koszty sprzedanych produktów, towarów       #    53.4 #    76.0 #   184.9 #
+  #   i materia³ów                                #         #         #         #
+  # B.I.Koszt wytworzenia sprzedanych produktów   #    53.4 #    76.0 #   184.9 #
+  #                                               #         #         #         #
+  # C.Zysk(strata) brutto ze sprzeda¿y (A-B)      #    11.4 #    33.5 #   123.7 #
+  #                                               #         #         #         #
+  # D.Koszty sprzeda¿y                            #     2.4 #     6.9 #    15.6 #
+  #                                               #         #         #         #
+  # E.Koszty ogólnego zarz¹du,                    #    25.4 #    36.4 #    61.7 #
+  #                                               #         #         #         #
+  # F.Zysk(strata) ze sprzeda¿y (C-D-E)           #   -16.4 #    -9.7 #    46.4 #
+  #                                               #         #         #         #
+  # G.Pozosta³e przychody operacyjne              #     0.0 #     0.0 #     0.0 #
+  #                                               #         #         #         #
+  # H.Pozosta³e koszty operacyjne                 #     0.0 #     0.0 #     0.0 #
+  #                                               #         #         #         #
+  # I.Zysk(strata) z dzia³alnoœci operacyjnej     #   -16.4 #    -9.7 #    46.4 #
+  #                                               #         #         #         #
+  # J.Przychody finansowe                         #     0.0 #     0.0 #     0.0 #
+  #                                               #         #         #         #
+  # K.Koszty finansowe                            #     4.7 #     7.3 #    10.2 #
+  # K.I.Odsetki                                   #     4.7 #     7.3 #    10.2 #
+  #                                               #         #         #         #
+  # L.Zysk(strata) z dzia³alnoœci gospodarczej    #   -21.1 #   -17.0 #    36.2 #
+  #   (I+J-K)                                     #         #         #         #
+  #                                               #         #         #         #
+  # M.Wynik zdarzen nadzwyczajnych (M.I-M.II)     #    -0.6 #    -0.8 #    -0.4 #
+  # M.I. Zyski nadzwyczajne                       #     0.0 #     0.0 #     0.0 #
+  # M.II. Straty nadzwyczajne                     #     0.6 #     0.8 #     0.4 #
+  #                                               #         #         #         #
+  # N.Zysk(strata) brutto (L+/-M)                 #   -21.7 #   -17.8 #    35.8 #
+  #                                               #         #         #         #
+  # O.Podatek dochodowy                           #     0.0 #     0.0 #     3.6 #
+  #                                               #         #         #         #
+  # P.Pozosta³e obowi¹zkowe zmniejszenia zysku    #     0.0 #     0.0 #     9.7 #
+  #   (zwiêkszenia straty)                        #         #         #         #
+  #   - dywidenda Skarbu Panstwa                  #     0.0 #     0.0 #     9.7 #
+  #                                               #         #         #         #
+  # R.Zysk(strata) netto (N-O-P), w tym           #   -21.7 #   -17.8 #    22.5 #
+  #   - dywidenda zwyk³a                          #     0.0 #     0.0 #    12.6 #
+  #   - zyski zatrzymane                          #     0.0 #     0.0 #     9.9 #
+  #     - odpis na kapita³ zapasowy               #     0.0 #     0.0 #     0.0 #
+  #     - odpis na kapita³ rezerwowy              #     0.0 #     0.0 #     9.9 #
+  #                                               #         #         #         #
+  ###############################################################################
+  #                                               #        Na koniec roku:      #
+  #                        RACHUNEK ZYSKÓW        #            /mln z³/         #
+  #                        /STRAT ZATRZYMANYCH    ###############################
+  #                                               #   2024  #   2025  #   2026  #
+  ###############################################################################
+  #                                               #         #         #         #
+  #                      1. Zyski zatrzymane/     #     0.0 #   -21.7 #   -39.5 #
+  #                         straty poniesione:    #         #         #         #
+  #                         (skum.) 1 Stycznia    #         #         #         #
+  #                                               #         #         #         #
+  #                       + Zysk netto/strata     #   -21.7 #   -17.8 #    22.5 #
+  #                         w danym roku          #         #         #         #
+  #                                               #         #         #         #
+  #                       Razem                   #   -21.7 #   -39.5 #   -17.0 #
+  #                                               #         #         #         #
+  #                                               #         #         #         #
+  #                                               #         #         #         #
+  #                      Minus: Dywidenda zwyk³a  #     0.0 #     0.0 #    12.6 #
+  #                                               #         #         #         #
+  #                      2. Zyski zatrzymane/     #   -21.7 #   -39.5 #   -29.6 #
+  #                         straty poniesione     #         #         #         #
+  #                         (skum.) 31 Grudnia    #         #         #         #
+  ###############################################################################
+   Operator:C:\PROG\EKAN\OPERATOR\Z2\sr15_46.sir
+   Decyzja :  6
+  ###################################################################################################################
+  #                                 RACHUNEK DOCHODÓW I ZYSKÓW/STRAT ZATRZYMANYCH                                   #
+  ###################################################################################################################
+  #                          #       Na koniec roku:       #                          #        Na koniec roku:      #
+  #   R A C H U N E K        #           /mln z³/          #   RACHUNEK ZYSKÓW/STRAT  #            /mln z³/         #
+  #                          ###############################                          ###############################
+  #   D O C H O D Ó W        #   2024  #   2025  #   2026  #   ZATRZYMANYCH           #   2024  #   2025  #   2026  #
+  ###################################################################################################################
+  #                          #         #         #         #                          #         #         #         #
+  #1. Przychody ze sprzeda¿y #    64.7 #   109.5 #   308.6 #1. Zyski zatrzymane/      #     0.0 #   -21.7 #   -39.5 #
+  #2. Koszty sprzedanych     #    53.4 #    76.0 #   184.9 #   Straty poniesione:     #         #         #         #
+  #          wyrobów         #         #         #         #   (skum.) 1 Stycznia     #         #         #         #
+  #3. Wynik brutto na        #    11.4 #    33.5 #   123.7 #                          #         #         #         #
+  #         sprzeda¿y        #         #         #         # + Zysk netto/Strata      #         #         #         #
+  #4. Koszty sprzeda¿y       #     2.4 #     6.9 #    15.6 #     w danym roku         #   -21.7 #   -17.8 #    22.5 #
+  #5. Koszty wydzia³owe      #    18.3 #    24.3 #    39.0 #                          #         #         #         #
+  #6. Koszty ogólnego zarz¹du#     7.1 #    12.1 #    22.7 #   razem                  #   -21.7 #   -39.5 #   -17.0 #
+  #                          #         #         #         #                          #         #         #         #
+  #8. Zysk na dzia³alnoœci   #   -16.4 #    -9.7 #    46.4 #                          #         #         #         #
+  #           operacyjnej    #         #         #         #                          #         #         #         #
+  #9. Koszty finansowe       #     4.7 #     7.3 #    10.2 #Minus: Dywidenda zwyk³a   #     0.0 #     0.0 #    12.6 #
+  #                          #         #         #         #                          #         #         #         #
+  #10. Zysk/Strata brutto    #   -21.1 #   -17.0 #    36.2 # 2. Zyski zatrzymane/     #   -21.7 #   -39.5 #   -29.6 #
+  #    na dzia³, gospodarczej#         #         #         #    Straty poniesione     #         #         #         #
+  #11. Straty nadzwyczajne   #     0.6 #     0.8 #     0.4 #    (skum.) 31 Grudnia    #         #         #         #
+  #                          #         #         #         #                          #         #         #         #
+  #12. Zysk brutto           #   -21.7 #   -17.8 #    35.8 #                          #         #         #         #
+  #                          #         #         #         #                          #         #         #         #
+  #13. Obowi¹zkowe obci¹¿enia#     0.0 #     0.0 #    13.2 #                          #         #         #         #
+  #   wyniku finansowego:    #         #         #         #                          #         #         #         #
+  # - podatek dochodowy      #     0.0 #     0.0 #     3.6 #                          #         #         #         #
+  # - dywidenda skarbu pan.  #     0.0 #     0.0 #     9.7 #                          #         #         #         #
+  #                          #         #         #         #                          #         #         #         #
+  #14. Zysk/Strata netto:    #   -21.7 #   -17.8 #    22.5 #                          #         #         #         #
+  #                          #         #         #         #                          #         #         #         #
+  # - dywidenda zwykla       #     0.0 #     0.0 #    12.6 #                          #         #         #         #
+  # - zyski zatrzymane:      #     0.0 #     0.0 #     9.9 #                          #         #         #         #
+  #   - odpis na kapita³ zap.#     0.0 #     0.0 #     0.0 #                          #         #         #         #
+  #   - odpis na kapita³ rez.#     0.0 #     0.0 #     9.9 #                          #         #         #         #
+  ###################################################################################################################

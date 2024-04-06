@@ -1,0 +1,197 @@
+   Operator      :        C:\PROG\EKAN\OPERATOR\Z2\sr15_46.sir
+   Decyzja       :  6
+  ############################################################################
+  #                     B I L A N S     O K R E S O W Y                      #
+  ############################################################################
+  #                                            #     Stan na koniec roku:    #
+  #                                            #           /mln z³/          #
+  #     A K T Y W A                            ###############################
+  #                                            #    2024 #    2025 #    2026 #
+  ############################################################################
+  #                                            #         #         #         #
+  # A.AKTYWA TRWA£E                            #   111.4 #   134.1 #   146.1 # 
+  # A.II.Rzeczowe aktywa trwa³e                #   111.4 #   134.1 #   146.1 #
+  # A.II.1.a,b) Grunty i budynki (brutto)      #    80.7 #   100.0 #   125.7 #
+  #             Grunty i budynki (netto)       #    54.2 #    67.7 #    85.7 #
+  # A.II.1.c) Urz¹dzenia techniczne            #    40.3 #    50.0 #    62.8 #
+  #           i maszyny (brutto)               #         #         #         #
+  #           Urz¹dzenia techniczne            #    27.1 #    33.9 #    42.9 #
+  #      skumulowana dekapitalizacja           #    39.6 #    48.4 #    59.9 #
+  # A.II.2.Œrodki trwa³e w budowie             #    24.0 #     7.5 #     7.5 #
+  #                                            #         #         #         #
+  # B.AKTYWA OBROTOWE                          #    47.7 #    47.5 #    68.1 #
+  #                                            #         #         #         #
+  # B.I.Zapasy                                 #    41.7 #    47.7 #    32.8 #
+  # B.I.1.Materia³y                            #    34.8 #    39.0 #     0.8 #
+  # B.I.2.Pó³produkty i produkty w toku        #     0.6 #     4.3 #    21.0 #
+  # B.I.3.Produkty gotowe                      #     6.3 #     4.4 #    11.0 #
+  # B.II.Nale¿noœci krótkoterminowe            #     0.2 #    -0.1 #    35.3 #
+  # B.II.2.Nal. od pozosta³ych jednostek       #     0.2 #    -0.1 #    35.3 #
+  # B.II.2.a) z tytu³u dostaw i us³ug          #     0.2 #    -0.1 #    35.3 #
+  # B.III.Inwestycje krótkoterminowe           #     5.8 #     0.0 #     0.0 #
+  # B.III.1.Krótkoterm. aktywa finans.         #     5.8 #     0.0 #     0.0 #
+  # B.III.1.c) Œrodki pieniê¿ne w kasie        #     5.8 #     0.0 #     0.0 #
+  #            i na rachunkach                 #         #         #         #
+  #                                            #         #         #         #
+  ############################################################################
+  #      AKTYWA RAZEM                          #   159.1 #   181.6 #   214.2 #
+  ############################################################################
+  #                                            #     Stan na koniec roku:    #
+  #                                            #           /mln z³/          #
+  #     P A S Y W A                            ###############################
+  #                                            #    2024 #    2025 #    2026 #
+  ############################################################################
+  #                                            #         #         #         #
+  # A.KAPITA£ (FUNDUSZ) W£ASNY (I+IV+VI)       #   -83.2 #  -101.0 #   -91.0 #
+  # A.I.Kapita³ (fundusz) podstawowy           #   -83.2 #  -101.0 #  -101.0 #
+  # A.IV.Kapita³ (fundusz) zapasowy            #     0.0 #     0.0 #     0.0 #
+  # A.VI.Pozosta³e kapita³y rezerwowe          #     0.0 #     0.0 #     9.9 #
+  # A.VII.Zysk (strata) netto                  #   -21.7 #   -17.8 #    22.5 #
+  #                                            #         #         #         #
+  # B.ZOBOWI¥ZANIA I REZERWY NA ZOBOWI¥ZANIA   #   242.2 #   282.6 #   305.3 #
+  # B.II.Zobowi¹zania d³ugoterminowe           #    66.1 #    83.5 #    80.7 #
+  # B.II.2.Zobowi¹zania d³ugoterminowe         #    66.1 #    83.5 #    80.7 #
+  #         wobec pozosta³ych jednostek        #         #         #         #
+  # B.II.2.a) Kredyty i po¿yczki               #    66.1 #    83.5 #    80.7 #
+  #           - d³ugoterminowy kredyt bankowy  #    39.1 #    59.0 #    67.6 #
+  #             (pod hipotekê)                 #         #         #         #
+  #           - kredyt na inwestycje           #    27.0 #    24.5 #    13.1 #
+  # B.III.Zobowi¹zania krótkoterminowe         #   176.1 #   199.1 #   224.6 #
+  # B.III.2.Wobec pozosta³ych jednostek        #   176.1 #   199.1 #   224.6 #
+  # B.III.2.a) Kredyty i po¿yczki              #     0.0 #     0.0 #     0.0 #
+  # B.III.2.b) Z tytu³u emisji d³u¿nych        #     0.0 #     0.0 #     0.0 #
+  #            papierów wartoœciowych          #         #         #         #
+  # B.III.2.c) Inne zobowi¹zania finansowe     #     0.0 #     0.0 #     0.0 #
+  # B.III.2.d) Z tytu³u dostaw i us³ug,        #   176.1 #   199.1 #   224.6 #
+  #            o okresie wymagalnoœci do 12 m. #         #         #         #
+  ############################################################################
+  # PASYWA RAZEM                               #   159.1 #   181.6 #   214.2 #
+  ############################################################################
+
+   Operator      :        C:\PROG\EKAN\OPERATOR\Z2\sr15_46.sir
+   Decyzja       :  6
+  #####################################################################################################
+  #     Z E S T A W I E N I E  Z M I A N  W  K A P I T A L E (F U N D U S Z U)  W £ A S N Y M         #
+  #####################################################################################################
+  #                                                                     #             Stan:           #
+  #                                                                     #           /mln z³/          #
+  #                W Y S Z C Z E G Ó L N I E N I E                      ###############################
+  #                                                                     #   2024  #   2025  #   2026  2
+  #####################################################################################################
+  #                                                                     #         #         #         #
+  # I.Kapita³(fundusz) w³asny na pocz¹tek okresu (BO)                   #   -61.4 #   -83.2 #  -101.0 #
+  #   - korekty b³êdów podstawowych                                     #     0.0 #     0.0 #     0.0 #
+  #                                                                     #         #         #         #
+  # I.a. Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO), po korektach #   -61.4 #   -83.2 #  -101.0 #
+  #                                                                     #         #         #         #
+  # I.a.1. Kapita³ (fundusz) podstawowy na pocz¹tek okresu              #   -61.4 #   -83.2 #  -101.0 #
+  # I.a.1.1 Zmiany kapita³u (funduszu) podstawowego                     #   -21.7 #   -17.8 #     0.0 #
+  # I.a.1.1.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     0.0 #
+  #            - wydania udzia³ów (emisji akcji)                        #     0.0 #     0.0 #     0.0 #
+  # I.a.1.1.b) zmniejszenie (z tytu³u)                                  #    21.7 #    17.8 #     0.0 #
+  #            - umorzenia udzia³ów (akcji)                             #    21.7 #    17.8 #     0.0 #
+  # I.a.1.2. Kapita³ (fundusz) podstawowy na koniec okresu              #   -83.2 #  -101.0 #  -101.0 #
+  #                                                                     #         #         #         #
+  # I.a.2. Nale¿ne wp³aty na kapita³ podstawowy na pocz¹tek okresu      #     0.0 #     0.0 #     0.0 #
+  # I.a.2.1. Zmiana nale¿nych wp³at na kapita³ podstawowy               #     0.0 #     0.0 #     0.0 #
+  # I.a.2.1.a) zwiêkszenie                                              #     0.0 #     0.0 #     0.0 #
+  # I.a.2.1.b) zmniejszenie                                             #     0.0 #     0.0 #     0.0 #
+  # I.a.2.2. Nale¿ne wp³aty na kapita³ podstawowy na koniec okresu      #     0.0 #     0.0 #     0.0 #
+  #                                                                     #         #         #         #
+  # I.a.3. Udzia³y (akcje) w³asne na pocz¹tek okresu                    #   -61.4 #   -83.2 #  -101.0 #
+  # I.a.3.a) zwiêkszenie                                                #     0.0 #     0.0 #     0.0 #
+  # I.a.3.b) zmniejszenie                                               #    21.7 #    17.8 #     0.0 #
+  # I.a.3.1. Udzia³y (akcje) w³asne na koniec okresu                    #   -83.2 #  -101.0 #  -101.0 #
+  #                                                                     #         #         #         #
+  # I.a.4. Kapita³ (fundusz) zapasowy na pocz¹tek okresu                #     0.0 #     0.0 #     0.0 #
+  # I.a.4.1. Zmiany kapita³u (funduszu) zapasowego                      #     0.0 #     0.0 #     0.0 #
+  # I.a.4.1.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     0.0 #
+  #            - emisji akcji powy¿ej wartoœci nominalnej               #     0.0 #     0.0 #     0.0 #
+  #            - z podzia³u zysku (ustawowo)                            #     0.0 #     0.0 #     0.0 #
+  #            - z podzia³u zysku (ponad wymagan¹ ustawowo minimaln¹    #     0.0 #     0.0 #     0.0 #
+  #              wartoœæ)                                               #         #         #         #
+  # I.a.4.1.b) zmniejszenie (z tytu³u)                                  #     0.0 #     0.0 #     0.0 #
+  #            - pokrycia straty                                        #     0.0 #     0.0 #     0.0 #
+  # I.a.4.2. Stan kapita³u (funduszu) zapasowego na koniec okresu       #     0.0 #     0.0 #     0.0 #
+  #                                                                     #         #         #         #
+  # I.a.5. Kapita³ (fundusz) z aktualizacji wyceny na pocz¹tek okresu   #     0.0 #     0.0 #     0.0 #
+  # I.a.5.1. Zmiany kapita³u (funduszu) z aktualizacji wyceny           #     0.0 #     0.0 #     0.0 #
+  # I.a.5.1.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     0.0 #
+  # I.a.5.1.b) zmniejszenie (z tytu³u)                                  #     0.0 #     0.0 #     0.0 #
+  #            - zbycia œrodków trwa³ych                                #     0.0 #     0.0 #     0.0 #
+  # I.a.5.2. Kapita³ (fundusz) z aktualizacji wyceny na koniec okresu   #     0.0 #     0.0 #     0.0 #
+  #                                                                     #         #         #         #
+  # I.a.6. Pozosta³e kapita³y (fundusze) rezerwowe na pocz¹tek okresu   #     0.0 #     0.0 #     0.0 #
+  # I.a.6.1. Zmiany pozosta³ych kapita³ów (funduszy) rezerwowych        #     0.0 #     0.0 #     9.9 #
+  # I.a.6.1.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     9.9 #
+  # I.a.6.1.b) zmniejszenie (z tytu³u)                                  #     0.0 #     0.0 #     0.0 #
+  # I.a.6.2. Pozosta³e kapita³y (fundusze) rezerwowe na koniec okresu   #     0.0 #     0.0 #     9.9 #
+  #                                                                     #         #         #         #
+  # I.a.7. Zysk (strata) z lat ubieg³ych na pocz¹tek okresu             #     0.0 #     0.0 #     0.0 #
+  # I.a.7.1. Zysk z lat ubieg³ych na pocz¹tek okresu                    #     0.0 #     0.0 #     0.0 #
+  #          - korekty b³êdów podstawowych                              #     0.0 #     0.0 #     0.0 #
+  # I.a.7.2. Zysk z lat ubieg³ych na pocz¹tek okresu, po korektach      #     0.0 #     0.0 #     0.0 #
+  # I.a.7.2.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     0.0 #
+  #            - podzia³u zysku z lat ubieg³ych                         #     0.0 #     0.0 #     0.0 #
+  # I.a.7.2.b) zmniejszenie (z tytu³u)                                  #     0.0 #     0.0 #     0.0 #
+  # I.a.7.3. Zysk z lat ubieg³ych na koniec okresu                      #     0.0 #     0.0 #     0.0 #
+  # I.a.7.4. Strata z lat ubieg³ych na pocz¹tek okresu                  #     0.0 #     0.0 #     0.0 #
+  #          - korekty b³êdów podstawowych                              #     0.0 #     0.0 #     0.0 #
+  # I.a.7.5. Strata z lat ubieg³ych na pocz¹tek okresu, po korektach    #     0.0 #     0.0 #     0.0 #
+  # I.a.7.5.a) zwiêkszenie (z tytu³u)                                   #     0.0 #     0.0 #     0.0 #
+  #            - przeniesienia straty z lat ubieg³ych do pokrycia       #     0.0 #     0.0 #     0.0 #
+  # I.a.7.5.b) zmniejszenie (z tytu³u)                                  #     0.0 #     0.0 #     0.0 #
+  # I.a.7.6. Strata z lat ubieg³ych na koniec okresu                    #     0.0 #     0.0 #     0.0 #
+  # I.a.7.7. Zysk (strata) z lat ubieg³ych na koniec okresu             #     0.0 #     0.0 #     0.0 #
+  #                                                                     #         #         #         #
+  # I.a.8. Wynik netto                                                  #   -21.7 #   -17.8 #    22.5 #
+  # I.a.8.a) zysk netto                                                 #     0.0 #     0.0 #    22.5 #
+  # I.a.8.b) strata netto                                               #    21.7 #    17.8 #     0.0 #
+  # I.a.8.c) odpisy z zysku                                             #     0.0 #     0.0 #     9.9 #
+  #                                                                     #         #         #         #
+  # II. Kapita³ (fundusz) w³asny na koniec okresu (BZ)                  #   -83.2 #  -101.0 #   -91.0 #
+  #                                                                     #         #         #         #
+  # III. Kapita³ (fundusz) w³asny, po uwzglêdnieniu proponowanego       #   -83.2 #  -101.0 #   -91.0 #
+  #      podzia³u zysku (pokrycia straty)                               #         #         #         #
+  #                                                                     #         #         #         #
+  #####################################################################################################
+
+   Operator      :        C:\PROG\EKAN\OPERATOR\Z2\sr15_46.sir
+   Decyzja       :  6
+  ###################################################################################################################
+  #                                         B I L A N S     O K R E S O W Y                                         #
+  ###################################################################################################################
+  #                          #     Stan na koniec roku:    #                          #     Stan na koniec roku:    #
+  #                          #           /mln z³/          #                          #           /mln z³/          #
+  #     A K T Y W A          ###############################      P A S Y W A         ###############################
+  #                          #   2024  #   2025  #   2026  #                          #   2024  #   2025  #   2026  #
+  ###################################################################################################################
+  #                          #         #         #         #                          #         #         #         #
+  # A) MAJ¥TEK TRWA£Y NETTO  #   111.4 #   134.1 #   146.1 #A) KAPITA£ W£ASNY (1+2+3) #   -83.2 #  -101.0 #   -91.0 #
+  #                          #         #         #         #                          #         #         #         #
+  # 1. Grunty, budynki       #    80.7 #   100.0 #   125.7 # 1. Kapita³ akcyjny       #   -83.2 #  -101.0 #  -101.0 #
+  # - skum. dekapital.       #    26.4 #    32.3 #    39.9 #                          #         #         #         #
+  # ------------------       #         #         #         # 2. Kapita³ zapasowy      #     0.0 #     0.0 #     0.0 #
+  # Wartoœæ netto            #    54.2 #    67.7 #    85.7 #                          #         #         #         #
+  #                          #         #         #         # 3. Kapita³ rezerwowy     #     0.0 #     0.0 #     9.9 #
+  # 2. Urz¹dzenia, maszyny   #    40.3 #    50.0 #    62.8 #                          #         #         #         #
+  # - skum. dekapital.       #    13.2 #    16.1 #    20.0 # 4. Zysk netto | Strata   #   -21.7 #   -17.8 #    22.5 #
+  # ------------------       #         #         #         #                          #         #         #         #
+  # Wartoœæ netto            #    27.1 #    33.9 #    42.9 #   - zysk zatrzymany      #     0.0 #     0.0 #     9.9 #
+  #                          #         #         #         #   - strata poniesiona    #   -21.7 #   -17.8 #     0.0 #
+  # 3. Inwestycje rozpoczête #    24.0 #     7.5 #     7.5 #                          #         #         #         #
+  #                          #         #         #         # B) ZOBOWI¥ZANIA          #         #         #         #
+  #B) MAJ¥TEK OBROTOWY       #    47.7 #    47.5 #    68.1 #    D£UGOTERMINOWE        #    66.1 #    83.5 #    80.7 #
+  #                          #         #         #         #                          #         #         #         #
+  # 1. Zapasy                #    41.7 #    47.7 #    32.8 # 1. D³ugoter. kredyt bank.#         #         #         #
+  #                          #         #         #         #     (pod hipoteke)       #    39.1 #    59.0 #    67.6 #
+  #    - materia³y           #    34.8 #    39.0 #     0.8 # 2. Kredyt na inwestycje  #    27.0 #    24.5 #    13.1 #
+  #    - produkcja w toku    #     0.6 #     4.3 #    21.0 #                          #         #         #         #
+  #    - wyroby gotowe       #     6.3 #     4.4 #    11.0 # C) ZOBOWI¥ZANIA          #         #         #         #
+  #                          #         #         #         #    KRÓTKOTERMINOWE       #   176.1 #   199.1 #   224.6 #
+  # 2. Nale¿noœci            #     0.2 #    -0.1 #    35.3 #                          #         #         #         #
+  #                          #         #         #         #  - zobowi¹zania          #   176.1 #   199.1 #   224.6 #
+  # 3. Œrodki pieniê¿ne      #     5.8 #     0.0 #     0.0 #  - kredyt p³atniczy      #     0.0 #     0.0 #     0.0 #
+  ###################################################################################################################
+  #  SUMA AKTYWÓW            #   159.1 #   181.6 #   214.2 #   SUMA PASYWÓW           #   159.1 #   181.6 #   214.2 #
+  ###################################################################################################################
